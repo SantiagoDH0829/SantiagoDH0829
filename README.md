@@ -78,57 +78,6 @@ I enjoy learning how software, infrastructure, networking and security work toge
 
 ---
 
-## 🚀 Featured Projects
-
-### 📌 Online Examination System
-
-Academic project built with:
-
-* Java
-* Oracle Database
-* Swing
-* Software Engineering Principles
-
-### 📌 LeetCode Solutions
-
-Repository dedicated to:
-
-* Data Structures
-* Algorithms
-* Problem Solving
-* Technical Interview Preparation
-
-### 📌 Cloud & Infrastructure Lab
-
-Personal learning repository focused on:
-
-* AWS
-* Linux
-* Networking
-* Infrastructure Automation
-
----
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SantiagoDH0829&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoDH0829&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SantiagoDH0829&theme=tokyonight"/>
-</p>
-
----
-
 ## 💡 Favorite Quote
 
 > "First, solve the problem. Then, write the code."
