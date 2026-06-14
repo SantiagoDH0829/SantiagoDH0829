@@ -138,6 +138,7 @@ Personal learning repository focused on:
 ## 🌎 Connect With Me
 
 * GitHub: https://github.com/SantiagoDH0829
+* LinkedIn: https://www.linkedin.com/in/santiago-dorado-hoyos-4a8a79236/
 
 ---
 
